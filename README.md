@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+Expert+%E2%98%95;API+Architect+%F0%9F%8C%90;Docker+Enthusiast+%F0%9F%90%B3" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/225813108-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </div>
 
@@ -15,6 +15,8 @@
 ## 💫 About Me
 
 </div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```java
 public class BackendDeveloper {
@@ -39,6 +41,8 @@ public class BackendDeveloper {
 }
 ```
 
+<br clear="both">
+
 ---
 
 <div align="center">
@@ -51,7 +55,7 @@ public class BackendDeveloper {
 
 ### Core Technologies
 
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,git,github,docker,postman,mysql,postgres,maven,gradle&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,spring,html,git,github,docker,postman,mysql,postgres,maven,gradle&perline=6" />
 
 </div>
 
@@ -73,12 +77,11 @@ public class BackendDeveloper {
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="2">
 
 **🔧 DevOps & Tools**
 
@@ -87,15 +90,6 @@ public class BackendDeveloper {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</td>
-<td align="center">
-
-**🌐 Frontend Basics**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </td>
 </tr>
@@ -119,6 +113,8 @@ public class BackendDeveloper {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400">
+
 ## 🏆 Featured Projects
 
 </div>
@@ -140,8 +136,10 @@ public class BackendDeveloper {
 <tr>
 <td width="50%">
 
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" />
+
 #### 🌟 Personal Portfolio
-**HTML | CSS**
+**HTML**
 
 A clean and responsive portfolio website featuring:
 - 🎨 Modern UI/UX design
@@ -153,6 +151,8 @@ A clean and responsive portfolio website featuring:
 
 </td>
 <td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%" />
 
 #### 🌟 IP Finder Application
 **Core Java**
@@ -170,6 +170,8 @@ A Java-based IP utility tool with:
 <tr>
 <td width="50%">
 
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" />
+
 #### 🌟 MT6785 Kernel Build Script
 **Shell Scripting**
 
@@ -183,6 +185,8 @@ Custom kernel compilation automation:
 
 </td>
 <td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%" />
 
 #### 🌟 Custom ROM Build Guide
 **Android Development**
@@ -203,6 +207,8 @@ Comprehensive guide for building LineageOS 21:
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 ## 🎯 Current Mission
 
 </div>
@@ -215,7 +221,7 @@ learning:
   - "Apache Kafka for event streaming"
 
 building:
-  - "Scalable REST APIs"
+  - "Scalable REST APIs with Spring Boot"
   - "Cloud-native applications"
   - "CI/CD pipelines"
 
@@ -228,6 +234,8 @@ exploring:
 ---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
 
 ## 🤝 Let's Connect
 
@@ -262,22 +270,8 @@ exploring:
 
 <div align="center">
 
-### 🐍 Contribution Snake
+**⚡ "First, solve the problem. Then, write the code." – John Johnson**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/balaashok3673/balaashok3673/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/balaashok3673/balaashok3673/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/balaashok3673/balaashok3673/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-**⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
