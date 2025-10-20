@@ -1,16 +1,4 @@
-<div align="center">
 
-# 🚀 Welcome to My Digital Forge
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+Learner+%E2%98%95;API+%F0%9F%8C%90;Docker+Enthusiast+%F0%9F%90%B3" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/225813108-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-</div>
-
----
-
-<div align="center">
 
 ## 💫 About Me
 
